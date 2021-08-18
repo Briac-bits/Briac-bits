@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Briac-bits
 - 👀 I’m interested in all code
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning Kotmin 
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me briac.perea04@gmail.com
 
